@@ -156,7 +156,7 @@ void check_win(char board[3][3], int & winner)
 	}
 	else
 	{
-		winner = false;
+		winner = 0;
 	}
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
